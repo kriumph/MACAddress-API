@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ModelFacadeTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-06-17T14:23:41" hostname="yuzhouwudidiyishuaikaijunnanshen.local" time="1.108">
+  <properties/>
+  <testcase name="getMacAddressInfoOffline" classname="ModelFacadeTest" time="0.966"/>
+  <testcase name="selectInfo" classname="ModelFacadeTest" time="0.002"/>
+  <testcase name="getCreditBalanceOnline" classname="ModelFacadeTest" time="0.03"/>
+  <testcase name="sendEmailOffline" classname="ModelFacadeTest" time="0.011"/>
+  <testcase name="getCreditBalanceOffline" classname="ModelFacadeTest" time="0.003"/>
+  <testcase name="sendEmailOnline" classname="ModelFacadeTest" time="0.004"/>
+  <testcase name="updateInfo" classname="ModelFacadeTest" time="0.016"/>
+  <testcase name="compareToUpdatedDateOffline" classname="ModelFacadeTest" time="0.008"/>
+  <testcase name="initialize" classname="ModelFacadeTest" time="0.005"/>
+  <testcase name="getMacAddressInfoOnline" classname="ModelFacadeTest" time="0.005"/>
+  <testcase name="insertInfo" classname="ModelFacadeTest" time="0.003"/>
+  <testcase name="compareToUpdatedDateOnline" classname="ModelFacadeTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
